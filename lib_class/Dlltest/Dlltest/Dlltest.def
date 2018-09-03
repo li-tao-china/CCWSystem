@@ -1,0 +1,4 @@
+LIBRARY	"Dlltest"
+EXPORTS
+CreateExportObj @ 1
+DestoryExportObj @ 2
